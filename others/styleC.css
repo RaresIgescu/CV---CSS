@@ -1,0 +1,12 @@
+body {
+    background-color: #FFBE98;
+}
+
+
+.tot {
+    text-align: center;
+    color: #FEECE2;
+    font-family: "Kurale", serif;
+    font-size: 20px;
+    text-shadow: 3pt 3pt 10px black;
+}

@@ -1,0 +1,36 @@
+.inceput {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+    color: #FEECE2;
+    font-family: "Kurale", serif;
+    text-shadow: 3pt 3pt 10px black;
+}
+
+.profil {
+    margin-bottom: 10px;
+    border: 10px solid #FEECE2;
+}
+
+.buton {
+    color: #FEECE2;
+    font-size: 15px;
+    border: 1px solid #FEECE2;
+    border-radius: 8px;
+}
+
+.ancora {
+    font-family: "Kurale", serif;
+    color: black;
+    text-decoration: none;
+}
+
+p {
+    font-size: 20pt;
+}
+
+body {
+    background-color: #FFBE98;
+}
